@@ -10,6 +10,7 @@
 <img width="1920" height="1080" alt="host en VS" src="https://github.com/user-attachments/assets/fefc975f-d272-4c61-90cc-550d6101775b" />
 <img width="1920" height="1080" alt="cambiamos a labuser" src="https://github.com/user-attachments/assets/248f36b1-30e6-4484-b6ba-05a74362b928" />
 <img width="1920" height="1080" alt="error" src="https://github.com/user-attachments/assets/563fe080-90e1-4aa0-8053-25f03a0d2b22" />
+<img width="1920" height="1080" alt="cambiamos a descargas" src="https://github.com/user-attachments/assets/308e7229-df39-4af4-973f-a48f235db61f" />
 
 
 
